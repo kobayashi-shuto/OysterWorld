@@ -32,5 +32,10 @@ tasks.named('test') {
 	useJUnitPlatform()
 }
 
+jar {
+    enabled = false
+}
 
-
+bootJar {
+   archiveFileName = 'oysterworld.jar'
+}
