@@ -1,2 +1,2 @@
-# OysterWorld
-https://oysterworld.jp
+# OysterWorld.2
+New Environment
